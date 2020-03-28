@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+/*header{
+	background-image :linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(logo2.jpg);
+  	height: 50vh;
+  	background-size: cover;
+  	background-position: center;
+}*/
+/*ul{
+	float: center;
+  	list-style-type: none;
+  	margin-top: 25px;
+}*/
+  /*ul li{
+  	display: inline-block;
+  }
+.title h1{
+ 		color: #fff;
+ 		font-size: 70px;
+ 		margin: center;
+
+ }
+ .button{
+ 	position: absolute;
+ 	top: 60%;
+ 	left: 50%;
+ 	transform: translate(-50%,-50%);
+ }
+ .btn{
+ 	border: 1px solid #fff;
+ 	padding: 10px 30px;
+ 	color: black;
+ 	text-decoration: none;
+ 	transition: 0.6s ease;
+ }
+ .btn:hovor{
+ 	background-color: black;
+ 	color: black;
+
+ }*/
+ .feature-image{
+ 	position: relative;
+ }
+ .feature-img img{
+ 	width: 100%;
+ }
+ .feature-details{
+     padding: 20px;
+     text-align: justify;
+ }	
+ .feture-details h4{
+  font-weight: 600;
+  margin-top: 20px;
+
+ }
+ .features .fa{
+     font-size: 15px;
+     color: #ff5722;
+     
+ }
+ h1{
+  position: center;
+  margin: center;
+ }
+ 
+ .price{
+ 	width: 50px;
+ 	height: 50px;
+ 	background: #ff5722;
+ 	color: #fff;
+ 	font-weight: 600;
+ 	border-radius: 50%;
+ 	padding: 10px; 
+ 	box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+    position: absolute;
+    left: 20px;
+    bottom: -50px;
+
+ }
